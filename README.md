@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boundzound
-- 👀 I’m interested in Game console modding, such as Ps3, XB360 and 3DS
-- 🌱 I’m currently learning Lua, NodeJS 
-- 📫 You can reach me on Discord! Boundzound#6189
+- 👀 I’m interested in Formula 1 and Electrical Engineering.
+- 🌱 I’m currently learning Lua and C# 
+- 📫 You can contact me on Discord! "𝑅𝓋𝒩𝓍𝐵𝑜𝓊𝓃𝒹#9111"
 
 <!---
 Boundzound/Boundzound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
